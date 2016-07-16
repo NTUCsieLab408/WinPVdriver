@@ -1,0 +1,17 @@
+# Cscope/Tags
+/cscope.files
+/cscope.out
+/tags
+
+# Output
+/xeniface
+/xencontrol
+
+# Generated/intermediate files
+*.pch
+*.mof
+wmi_generated.h
+include/version.h
+.build_number
+*.sdf
+*.suo
